@@ -1,6 +1,4 @@
 # FinalProject
-Final Project
-
 Feeatures and description of the site:
 
 3 APIs we re used to get **data**:

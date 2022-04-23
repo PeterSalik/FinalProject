@@ -5,7 +5,7 @@ Feeatures and description of the site:
 
 1) API for generating Investigators.
 2) Custome Programmed API to generate Spies.
-3) API to get live weather data.
+3) API to get live weather data. **<==API key has been temporarily desiactivated for security purposes.**
 
 MongoDB used to store Operator Data.
 1 Database, 2 Collections.

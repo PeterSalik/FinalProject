@@ -10,5 +10,5 @@ Feeatures and description of the site:
 MongoDB used to store Operator Data.
 1 Database, 2 Collections.
 
-All data is stored on MongoDB. Investigator/Spy Data is fetched from Mongo DB and rendered on webpage.
-After input is submitted by user, appropriate call to backend server(MongoBD) gets data and **filters** it according to user input requirements.
+**All** data is stored on MongoDB. Investigator/Spy Data is fetched from Mongo DB and rendered on webpage.
+After input is submitted by user, appropriate call to backend server **filters data** according to user input and renders results.

@@ -1,10 +1,10 @@
 # FinalProject
 Feeatures and description of the site:
 
-3 APIs we re used to get **data**:
+3 APIs were used to get **data**:
 
 1) API for generating Investigators.
-2) Custome Programmed API to generate Spies.
+2) Custom/Server Side Programmed API to generate Spies in the required object format.
 3) API to get live weather data. **<==API key has been temporarily disactivated for security purposes.**
 
 MongoDB used to store Operator Data.
